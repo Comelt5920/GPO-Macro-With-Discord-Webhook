@@ -1,3 +1,5 @@
+# Based on original work by AsphaltCake
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import keyboard
@@ -2493,3 +2495,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
