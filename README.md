@@ -10,10 +10,10 @@ For a visual guide on how to set up the macro, watch the tutorial here:
 **[▶️ Watch Setup Tutorial on YouTube](https://www.youtube.com/watch?v=vKo64xxwUew)**
 
 ### 🛠️ Quick Setup Steps (จากวิดีโอสอน):
-* **Set Water Point:** คลิกตำแหน่งผิวน้ำในแท็บ Casting
-* **Adjust Green Box:** กด **F2** เพื่อปรับขนาดกรอบสีเขียวให้ครอบคลุมแถบตกปลา
-* **Start Macro:** กด **F1** เพื่อเริ่มทำงาน (และกดอีกครั้งเพื่อหยุด)
-* **Exit:** กด **F3** เพื่อปิดโปรแกรม
+* **Set Water Point:** Go to the Casting tab, click Set Water Point, then click on the water surface in-game.
+* **Adjust Green Box:** Press **F2** to resize and reposition the green area box to cover the fishing bar.
+* **Start Macro:** Press **F1** to start the macro, and press it again to stop.
+* **Exit:** Press **F3** to close the application immediately.
 
 ## ⚠️ Credits & Support
 * **Original Developer:** Huge thanks to **AsphaltCake** ([YouTube Channel](https://www.youtube.com/@AsphaltCake)) for the core framework and UI design.
