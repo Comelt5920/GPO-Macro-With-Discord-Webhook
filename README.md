@@ -9,7 +9,7 @@ This is a heavily modified and feature-rich version of the GPO Fishing Macro, or
 For a visual guide on how to set up the macro, watch the tutorial here:
 **[▶️ Watch Setup Tutorial on YouTube](https://www.youtube.com/watch?v=vKo64xxwUew)**
 
-### 🛠️ Quick Setup Steps (จากวิดีโอสอน):
+### 🛠️ Quick Setup Steps
 * **Set Water Point:** Go to the Casting tab, click Set Water Point, then click on the water surface in-game.
 * **Adjust Green Box:** Press **F2** to resize and reposition the green area box to cover the fishing bar.
 * **Start Macro:** Press **F1** to start the macro, and press it again to stop.
